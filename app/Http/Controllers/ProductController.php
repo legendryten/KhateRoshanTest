@@ -6,7 +6,6 @@ use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Http\Request;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
-use PDF;
 use TCPDF;
 
 class ProductController extends Controller
